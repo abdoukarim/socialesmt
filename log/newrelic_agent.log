@@ -1,0 +1,231 @@
+# Logfile created on Mon Jan 09 02:26:25 +0000 2012 by logger.rb/1.2.6
+[01/09/12 02:26:25 +0000 kage.satellite (15459)] INFO : Dispatcher: thin
+[01/09/12 02:26:25 +0000 kage.satellite (15459)] INFO : Application: localhost
+[01/09/12 02:26:25 +0000 kage.satellite (15459)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 02:26:25 +0000 kage.satellite (15459)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 15459
+[01/09/12 02:26:25 +0000 kage.satellite (15459)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 02:28:59 +0000 kage.satellite (15619)] INFO : Dispatcher: thin
+[01/09/12 02:28:59 +0000 kage.satellite (15619)] INFO : Application: localhost
+[01/09/12 02:28:59 +0000 kage.satellite (15619)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 02:28:59 +0000 kage.satellite (15619)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 15619
+[01/09/12 02:28:59 +0000 kage.satellite (15619)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 02:35:41 +0000 kage.satellite (15793)] INFO : Dispatcher: thin
+[01/09/12 02:35:41 +0000 kage.satellite (15793)] INFO : Application: kage.lan
+[01/09/12 02:35:41 +0000 kage.satellite (15793)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 02:35:41 +0000 kage.satellite (15793)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 15793
+[01/09/12 02:35:41 +0000 kage.satellite (15793)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 02:57:40 +0000 kage.satellite (16253)] INFO : Dispatcher: thin
+[01/09/12 02:57:40 +0000 kage.satellite (16253)] INFO : Application: kage.lan
+[01/09/12 02:57:40 +0000 kage.satellite (16253)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 02:57:40 +0000 kage.satellite (16253)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 16253
+[01/09/12 02:57:40 +0000 kage.satellite (16253)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 03:11:23 +0000 kage.satellite (16976)] INFO : Dispatcher: thin
+[01/09/12 03:11:23 +0000 kage.satellite (16976)] INFO : Application: kage.lan
+[01/09/12 03:11:23 +0000 kage.satellite (16976)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 03:11:23 +0000 kage.satellite (16976)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 16976
+[01/09/12 03:11:23 +0000 kage.satellite (16976)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 03:33:24 +0000 kage.satellite (17472)] INFO : Dispatcher: thin
+[01/09/12 03:33:24 +0000 kage.satellite (17472)] INFO : Application: kage.lan
+[01/09/12 03:33:24 +0000 kage.satellite (17472)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 03:33:24 +0000 kage.satellite (17472)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 17472
+[01/09/12 03:33:24 +0000 kage.satellite (17472)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 03:37:08 +0000 kage.satellite (17655)] INFO : Dispatcher: thin
+[01/09/12 03:37:08 +0000 kage.satellite (17655)] INFO : Application: kage.lan
+[01/09/12 03:37:08 +0000 kage.satellite (17655)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 03:37:08 +0000 kage.satellite (17655)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 17655
+[01/09/12 03:37:08 +0000 kage.satellite (17655)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 03:41:03 +0000 kage.satellite (17898)] INFO : Dispatcher: thin
+[01/09/12 03:41:03 +0000 kage.satellite (17898)] INFO : Application: localhost
+[01/09/12 03:41:03 +0000 kage.satellite (17898)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 03:41:03 +0000 kage.satellite (17898)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 17898
+[01/09/12 03:41:03 +0000 kage.satellite (17898)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 03:46:39 +0000 kage.satellite (22574)] INFO : Dispatcher: thin
+[01/09/12 03:46:39 +0000 kage.satellite (22574)] INFO : Application: localhost
+[01/09/12 03:46:39 +0000 kage.satellite (22574)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 03:46:39 +0000 kage.satellite (22574)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 22574
+[01/09/12 03:46:39 +0000 kage.satellite (22574)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 03:50:53 +0000 kage.satellite (22738)] INFO : Dispatcher: thin
+[01/09/12 03:50:53 +0000 kage.satellite (22738)] INFO : Application: localhost
+[01/09/12 03:50:53 +0000 kage.satellite (22738)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 03:50:53 +0000 kage.satellite (22738)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 22738
+[01/09/12 03:50:53 +0000 kage.satellite (22738)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 03:55:38 +0000 kage.satellite (22842)] INFO : Dispatcher: thin
+[01/09/12 03:55:38 +0000 kage.satellite (22842)] INFO : Application: localhost
+[01/09/12 03:55:38 +0000 kage.satellite (22842)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 03:55:38 +0000 kage.satellite (22842)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 22842
+[01/09/12 03:55:38 +0000 kage.satellite (22842)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 04:00:25 +0000 kage.satellite (22980)] INFO : Dispatcher: thin
+[01/09/12 04:00:25 +0000 kage.satellite (22980)] INFO : Application: localhost
+[01/09/12 04:00:25 +0000 kage.satellite (22980)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 04:00:25 +0000 kage.satellite (22980)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 22980
+[01/09/12 04:00:25 +0000 kage.satellite (22980)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 04:26:58 +0000 kage.satellite (23505)] INFO : Dispatcher: thin
+[01/09/12 04:26:58 +0000 kage.satellite (23505)] INFO : Application: localhost
+[01/09/12 04:26:58 +0000 kage.satellite (23505)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 04:26:58 +0000 kage.satellite (23505)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 23505
+[01/09/12 04:26:58 +0000 kage.satellite (23505)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 04:42:37 +0000 kage.satellite (23931)] INFO : Dispatcher: thin
+[01/09/12 04:42:37 +0000 kage.satellite (23931)] INFO : Application: kage.lan
+[01/09/12 04:42:37 +0000 kage.satellite (23931)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 04:42:37 +0000 kage.satellite (23931)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 23931
+[01/09/12 04:42:37 +0000 kage.satellite (23931)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 04:52:14 +0000 kage.satellite (24120)] INFO : Dispatcher: thin
+[01/09/12 04:52:14 +0000 kage.satellite (24120)] INFO : Application: kage.lan
+[01/09/12 04:52:14 +0000 kage.satellite (24120)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 04:52:14 +0000 kage.satellite (24120)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 24120
+[01/09/12 04:52:14 +0000 kage.satellite (24120)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 16:29:38 +0000 kage.satellite (4208)] INFO : Dispatcher: thin
+[01/09/12 16:29:38 +0000 kage.satellite (4208)] INFO : Application: kage.lan
+[01/09/12 16:29:38 +0000 kage.satellite (4208)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 16:29:38 +0000 kage.satellite (4208)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 4208
+[01/09/12 16:29:38 +0000 kage.satellite (4208)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 16:31:35 +0000 kage.satellite (4336)] INFO : Dispatcher: thin
+[01/09/12 16:31:35 +0000 kage.satellite (4336)] INFO : Application: kage.lan
+[01/09/12 16:31:35 +0000 kage.satellite (4336)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 16:31:35 +0000 kage.satellite (4336)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 4336
+[01/09/12 16:31:35 +0000 kage.satellite (4336)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 16:59:56 +0000 kage.satellite (4768)] INFO : Dispatcher: thin
+[01/09/12 16:59:56 +0000 kage.satellite (4768)] INFO : Application: kage.lan
+[01/09/12 16:59:56 +0000 kage.satellite (4768)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 16:59:56 +0000 kage.satellite (4768)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 4768
+[01/09/12 16:59:56 +0000 kage.satellite (4768)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 17:15:03 +0000 kage.satellite (4999)] INFO : Dispatcher: thin
+[01/09/12 17:15:03 +0000 kage.satellite (4999)] INFO : Application: kage.lan
+[01/09/12 17:15:03 +0000 kage.satellite (4999)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 17:15:03 +0000 kage.satellite (4999)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 4999
+[01/09/12 17:15:03 +0000 kage.satellite (4999)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 17:19:47 +0000 kage.satellite (5263)] INFO : Dispatcher: thin
+[01/09/12 17:19:47 +0000 kage.satellite (5263)] INFO : Application: kage.lan
+[01/09/12 17:19:47 +0000 kage.satellite (5263)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 17:19:47 +0000 kage.satellite (5263)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 5263
+[01/09/12 17:19:47 +0000 kage.satellite (5263)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 17:25:05 +0000 kage.satellite (5364)] INFO : Dispatcher: thin
+[01/09/12 17:25:05 +0000 kage.satellite (5364)] INFO : Application: kage.lan
+[01/09/12 17:25:05 +0000 kage.satellite (5364)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 17:25:05 +0000 kage.satellite (5364)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 5364
+[01/09/12 17:25:05 +0000 kage.satellite (5364)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 17:34:04 +0000 kage.satellite (5764)] INFO : Dispatcher: thin
+[01/09/12 17:34:04 +0000 kage.satellite (5764)] INFO : Application: www.kage.lan
+[01/09/12 17:34:04 +0000 kage.satellite (5764)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 17:34:04 +0000 kage.satellite (5764)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 5764
+[01/09/12 17:34:04 +0000 kage.satellite (5764)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 18:04:27 +0000 kage.satellite (6968)] INFO : Dispatcher: thin
+[01/09/12 18:04:27 +0000 kage.satellite (6968)] INFO : Application: www.kage.lan
+[01/09/12 18:04:27 +0000 kage.satellite (6968)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 18:04:27 +0000 kage.satellite (6968)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 6968
+[01/09/12 18:04:27 +0000 kage.satellite (6968)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 18:19:00 +0000 kage.satellite (7441)] INFO : Dispatcher: thin
+[01/09/12 18:19:00 +0000 kage.satellite (7441)] INFO : Application: www.kage.lan
+[01/09/12 18:19:00 +0000 kage.satellite (7441)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 18:19:00 +0000 kage.satellite (7441)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 7441
+[01/09/12 18:19:00 +0000 kage.satellite (7441)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 18:24:58 +0000 kage.satellite (7559)] INFO : Dispatcher: thin
+[01/09/12 18:24:58 +0000 kage.satellite (7559)] INFO : Application: www.kage.lan
+[01/09/12 18:24:58 +0000 kage.satellite (7559)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 18:24:58 +0000 kage.satellite (7559)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 7559
+[01/09/12 18:24:58 +0000 kage.satellite (7559)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 19:11:29 +0000 kage.satellite (3514)] INFO : Dispatcher: thin
+[01/09/12 19:11:29 +0000 kage.satellite (3514)] INFO : Application: www.kage.lan
+[01/09/12 19:11:29 +0000 kage.satellite (3514)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 19:11:29 +0000 kage.satellite (3514)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 3514
+[01/09/12 19:11:29 +0000 kage.satellite (3514)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 19:13:33 +0000 kage.satellite (3638)] INFO : Dispatcher: thin
+[01/09/12 19:13:33 +0000 kage.satellite (3638)] INFO : Application: www.kage.lan
+[01/09/12 19:13:33 +0000 kage.satellite (3638)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 19:13:33 +0000 kage.satellite (3638)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 3638
+[01/09/12 19:13:33 +0000 kage.satellite (3638)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 19:30:40 +0000 kage.satellite (3847)] INFO : Dispatcher: thin
+[01/09/12 19:30:40 +0000 kage.satellite (3847)] INFO : Application: www.kage.lan
+[01/09/12 19:30:40 +0000 kage.satellite (3847)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 19:30:40 +0000 kage.satellite (3847)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 3847
+[01/09/12 19:30:40 +0000 kage.satellite (3847)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 19:46:26 +0000 kage.satellite (4038)] INFO : Dispatcher: thin
+[01/09/12 19:46:26 +0000 kage.satellite (4038)] INFO : Application: www.kage.lan
+[01/09/12 19:46:26 +0000 kage.satellite (4038)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 19:46:26 +0000 kage.satellite (4038)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 4038
+[01/09/12 19:46:26 +0000 kage.satellite (4038)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 20:05:45 +0000 kage.satellite (4295)] INFO : Dispatcher: thin
+[01/09/12 20:05:45 +0000 kage.satellite (4295)] INFO : Application: www.kage.lan
+[01/09/12 20:05:45 +0000 kage.satellite (4295)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 20:05:45 +0000 kage.satellite (4295)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 4295
+[01/09/12 20:05:45 +0000 kage.satellite (4295)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 20:18:31 +0000 kage.satellite (4447)] INFO : Dispatcher: thin
+[01/09/12 20:18:31 +0000 kage.satellite (4447)] INFO : Application: www.kage.lan
+[01/09/12 20:18:31 +0000 kage.satellite (4447)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 20:18:31 +0000 kage.satellite (4447)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 4447
+[01/09/12 20:18:31 +0000 kage.satellite (4447)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 20:56:40 +0000 kage.satellite (4646)] INFO : Dispatcher: thin
+[01/09/12 20:56:40 +0000 kage.satellite (4646)] INFO : Application: kage.lan
+[01/09/12 20:56:40 +0000 kage.satellite (4646)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 20:56:40 +0000 kage.satellite (4646)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 4646
+[01/09/12 20:56:40 +0000 kage.satellite (4646)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 21:10:42 +0000 kage.satellite (5017)] INFO : Dispatcher: thin
+[01/09/12 21:10:42 +0000 kage.satellite (5017)] INFO : Application: kage.lan
+[01/09/12 21:10:42 +0000 kage.satellite (5017)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 21:10:42 +0000 kage.satellite (5017)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 5017
+[01/09/12 21:10:42 +0000 kage.satellite (5017)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 21:14:17 +0000 kage.satellite (5123)] INFO : Dispatcher: thin
+[01/09/12 21:14:17 +0000 kage.satellite (5123)] INFO : Application: kage.lan
+[01/09/12 21:14:17 +0000 kage.satellite (5123)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 21:14:17 +0000 kage.satellite (5123)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 5123
+[01/09/12 21:14:17 +0000 kage.satellite (5123)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 21:20:16 +0000 kage.satellite (5236)] INFO : Dispatcher: thin
+[01/09/12 21:20:16 +0000 kage.satellite (5236)] INFO : Application: kage.lan
+[01/09/12 21:20:16 +0000 kage.satellite (5236)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 21:20:16 +0000 kage.satellite (5236)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 5236
+[01/09/12 21:20:16 +0000 kage.satellite (5236)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 23:40:39 +0000 kage.satellite (3318)] INFO : Dispatcher: thin
+[01/09/12 23:40:39 +0000 kage.satellite (3318)] INFO : Application: kage.lan
+[01/09/12 23:40:39 +0000 kage.satellite (3318)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 23:40:39 +0000 kage.satellite (3318)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 3318
+[01/09/12 23:40:39 +0000 kage.satellite (3318)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/09/12 23:42:58 +0000 kage.satellite (3414)] INFO : Dispatcher: thin
+[01/09/12 23:42:58 +0000 kage.satellite (3414)] INFO : Application: kage.lan
+[01/09/12 23:42:58 +0000 kage.satellite (3414)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/09/12 23:42:58 +0000 kage.satellite (3414)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 3414
+[01/09/12 23:42:58 +0000 kage.satellite (3414)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/10/12 00:10:17 +0000 kage.satellite (3154)] INFO : Dispatcher: thin
+[01/10/12 00:10:17 +0000 kage.satellite (3154)] INFO : Application: kage.lan
+[01/10/12 00:10:17 +0000 kage.satellite (3154)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/10/12 00:10:17 +0000 kage.satellite (3154)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 3154
+[01/10/12 00:10:17 +0000 kage.satellite (3154)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/10/12 00:49:22 +0000 kage.satellite (3459)] INFO : Dispatcher: thin
+[01/10/12 00:49:22 +0000 kage.satellite (3459)] INFO : Application: kage.lan
+[01/10/12 00:49:22 +0000 kage.satellite (3459)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/10/12 00:49:22 +0000 kage.satellite (3459)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 3459
+[01/10/12 00:49:22 +0000 kage.satellite (3459)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/10/12 00:57:45 +0000 kage.satellite (3583)] INFO : Dispatcher: thin
+[01/10/12 00:57:45 +0000 kage.satellite (3583)] INFO : Application: kage.lan
+[01/10/12 00:57:45 +0000 kage.satellite (3583)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/10/12 00:57:45 +0000 kage.satellite (3583)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 3583
+[01/10/12 00:57:45 +0000 kage.satellite (3583)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/10/12 01:03:46 +0000 kage.satellite (3728)] INFO : Dispatcher: thin
+[01/10/12 01:03:46 +0000 kage.satellite (3728)] INFO : Application: kage.lan
+[01/10/12 01:03:46 +0000 kage.satellite (3728)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/10/12 01:03:46 +0000 kage.satellite (3728)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 3728
+[01/10/12 01:03:46 +0000 kage.satellite (3728)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/10/12 01:07:07 +0000 kage.satellite (3840)] INFO : Dispatcher: thin
+[01/10/12 01:07:07 +0000 kage.satellite (3840)] INFO : Application: kage.lan
+[01/10/12 01:07:07 +0000 kage.satellite (3840)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/10/12 01:07:07 +0000 kage.satellite (3840)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 3840
+[01/10/12 01:07:07 +0000 kage.satellite (3840)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/10/12 01:15:54 +0000 kage.satellite (3960)] INFO : Dispatcher: thin
+[01/10/12 01:15:54 +0000 kage.satellite (3960)] INFO : Application: kage.lan
+[01/10/12 01:15:54 +0000 kage.satellite (3960)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/10/12 01:15:54 +0000 kage.satellite (3960)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 3960
+[01/10/12 01:15:54 +0000 kage.satellite (3960)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/10/12 01:38:39 +0000 kage.satellite (4552)] INFO : Dispatcher: thin
+[01/10/12 01:38:39 +0000 kage.satellite (4552)] INFO : Application: kage.lan
+[01/10/12 01:38:39 +0000 kage.satellite (4552)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/10/12 01:38:39 +0000 kage.satellite (4552)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 4552
+[01/10/12 01:38:39 +0000 kage.satellite (4552)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/12/12 01:54:07 +0000 kage.satellite (4052)] INFO : Dispatcher: thin
+[01/12/12 01:54:07 +0000 kage.satellite (4052)] INFO : Application: kage.lan
+[01/12/12 01:54:07 +0000 kage.satellite (4052)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/12/12 01:54:07 +0000 kage.satellite (4052)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 4052
+[01/12/12 01:54:07 +0000 kage.satellite (4052)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log
+[01/12/12 01:58:06 +0000 kage.satellite (4336)] INFO : Dispatcher: thin
+[01/12/12 01:58:06 +0000 kage.satellite (4336)] INFO : Application: kage.lan
+[01/12/12 01:58:06 +0000 kage.satellite (4336)] ERROR : No license key found.  Please edit your newrelic.yml file and insert your license key.
+[01/12/12 01:58:06 +0000 kage.satellite (4336)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 4336
+[01/12/12 01:58:06 +0000 kage.satellite (4336)] INFO : Agent Log at /home/kage/diaspora/log/newrelic_agent.log

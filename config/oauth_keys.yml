@@ -1,0 +1,9 @@
+twitter:
+  consumer_key: <%= AppConfig['kdNHgiNoD7Wd3VMuyhyOnA'] %>
+  consumer_secret: <%= AppConfig['yyQPJLhNT6viODPNNrgjGX3lEsjc0ss9irjLv5JkcY'] %>
+facebook:
+  app_id: <%=AppConfig['223870291027809'] %>
+  app_secret: <%= AppConfig['14f6ed7270c8b5857695950f0c469fbd'] %>
+tumblr:
+  consumer_key: <%= AppConfig['tumblr_consumer_key'] %>
+  consumer_secret: <%= AppConfig['tumblr_consumer_secret'] %>
